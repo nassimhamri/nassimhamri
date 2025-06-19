@@ -109,15 +109,7 @@ class NassimHamri:
 
 ---
 
-<div align="center">
-  
-  ### 💭 Citation du jour
-  
-  *"L'intelligence artificielle n'est pas là pour remplacer l'intelligence humaine, mais pour l'amplifier."*
-  
-  ---
-  
-  **M🚀 Vous avez une idée, un besoin ou un projet ? Je suis partant pour en discuter !
+  **🚀 Vous avez une idée, un besoin ou un projet ? Je suis partant pour en discuter !
 📬 Envoyez-moi un message et lançons une collaboration enrichissante.**
 
 ## 📫 Me contacter
@@ -131,6 +123,14 @@ class NassimHamri:
 </div>
 
 ---
+<div align="center">
+  
+  ### 💭 Citation du jour
+  
+  *"L'intelligence artificielle n'est pas là pour remplacer l'intelligence humaine, mais pour l'amplifier."*
+  
+  ---
+  </div
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
   
