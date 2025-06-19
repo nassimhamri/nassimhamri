@@ -1,51 +1,115 @@
-###
+# 👋 Salut, je suis Nassim HAMRI !
 
-<h2 align="left">Hello World!! 👋</h2>
+<div align="center">
+  
+  ![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Étudiant+en+Master+Imagerie;Passionné+par+l'IA+et+la+Vision;Développeur+Python+%26+C)
 
-###
-
-<h4 align="left">Je m'appelle Nassim HAMRI</h4>
-
-###
-
-<p align="left">Actuellement: Etudiant en master Imagerie à l'Université Clermont Auvergne<br><br>Précédemment : Etudiant en licence Science Pour l'Ingénieur à l'université Jean Monet de Saint-Etienne</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Les outils que je maîtrise le mieux</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="52" alt="matlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
+  [![Profile Views](https://komarev.com/ghpvc/?username=votre-username&color=blueviolet&style=flat-square&label=Visiteurs)](https://github.com/votre-username)
+  
 </div>
 
-###
+---
 
-<br clear="both">
+## 🎓 À propos de moi
 
-<h2 align="left">Comment me contacter</h2>
+```python
+class NassimHamri:
+    def __init__(self):
+        self.nom = "Nassim HAMRI"
+        self.formation_actuelle = "Master Imagerie - Université Clermont Auvergne"
+        self.formation_precedente = "Licence SPI - Université Jean Monnet (Saint-Étienne)"
+        self.domaines_interet = ["Vision par ordinateur", "Intelligence artificielle", "Traitement d'images"]
+        self.localisation = "France 🇫🇷"
+        
+    def dire_bonjour(self):
+        print("Merci de visiter mon profil ! N'hésitez pas à me contacter 😊")
+```
 
-###
+---
 
-<div align="left">
-  <a href="www.linkedin.com/in/nassim-hamri" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="Nassim#7604" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="hamrinassim@hotmail.fr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+## 🛠️ Technologies & Outils
+
+### 💻 Langages de programmation
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+</p>
+
+### 📚 Bibliothèques & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+### 🔧 Hardware & Outils
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=votre-username&theme=tokyonight&hide_border=true)
+  
 </div>
 
-###
+---
+
+## 🎯 Projets en cours
+
+- 🔬 **Analyse d'images médicales** - Développement d'algorithmes de traitement d'images
+- 🤖 **Vision par ordinateur** - Implémentation de modèles de deep learning
+- 📡 **Projets IoT** - Intégration Arduino/Raspberry Pi
+
+---
+
+## 🌟 Centres d'intérêt
+
+```
+🖼️  Traitement et analyse d'images
+🧠  Intelligence artificielle et Machine Learning  
+🔬  Imagerie médicale et scientifique
+🎮  Développement de projets créatifs
+📖  Veille technologique
+```
+
+---
+
+## 📫 Me contacter
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassim-hamri)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamrinassim@hotmail.fr)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Nassim#7604)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💭 Citation du jour
+  
+  *"L'intelligence artificielle n'est pas là pour remplacer l'intelligence humaine, mais pour l'amplifier."*
+  
+  ---
+  
+  **Merci de votre visite ! ⭐ N'hésitez pas à explorer mes repositories**
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  
+</div>
