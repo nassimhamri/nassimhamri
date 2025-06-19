@@ -59,20 +59,6 @@ class NassimHamri:
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nassimhamri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nassimhamri&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nassimhamri&theme=tokyonight&hide_border=true)
-  
-</div>
-
----
-
 ## 🎯 Projets récents
 
 - 🏥 **VSTENT** - *Stage de fin d'études* : Simulation de déploiement de stents dans les artères coronaires
