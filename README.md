@@ -4,7 +4,7 @@
   
   ![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Étudiant+en+Master+Imagerie;Passionné+par+l'IA+et+la+Vision;Développeur+Python+%26+C)
 
-  [![Profile Views](https://komarev.com/ghpvc/?username=votre-username&color=blueviolet&style=flat-square&label=Visiteurs)](https://github.com/votre-username)
+  [![Profile Views](https://komarev.com/ghpvc/?nassimhamri-username&color=blueviolet&style=flat-square&label=Visiteurs)](https://github.com/nassimhamri)
   
 </div>
 
