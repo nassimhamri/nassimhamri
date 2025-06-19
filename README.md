@@ -112,6 +112,7 @@ class NassimHamri:
   **🚀 Vous avez une idée, un besoin ou un projet ? Je suis partant pour en discuter !
 📬 Envoyez-moi un message et lançons une collaboration enrichissante.**
 
+---
 ## 📫 Me contacter
 
 <div align="center">
